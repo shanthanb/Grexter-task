@@ -1,0 +1,28 @@
+body {
+    color: rgb(255, 255, 255);
+    background: linear-gradient(to right, rgb(2, 27, 121), rgb(5, 117, 230));
+}
+.textDisplay {
+    font-weight: bold;
+    color: #000;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.card {
+    height: 200px;
+    width: 300px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.board {
+    margin-top: 20px;
+}
+h1 {
+    text-align: center;
+}
+.move {
+    margin-top: 0px;
+    margin-left: 50px;
+}

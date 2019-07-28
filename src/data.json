@@ -1,0 +1,38 @@
+{
+  "lanes": [
+    {
+      "id": "ALL",
+      "title": "ALL",
+      "style": {"width": 280,  "backgroundColor": "lightblue"},
+      "cards": []
+    },
+    {
+      "id": "WIP",
+      "title": "TODO",
+      "editable":false,
+      "style": {"width": 280},
+      "cards": []
+    },
+    {
+      "id": "inprogress",
+      "title": "INPROGRESS",
+      "editable":false,
+      "style": {"width": 280,"backgroundColor": "yellow"},
+      "cards": []
+    },
+    {
+      "id": "completed",
+      "title": "COMPLETED",
+      "editable":false,
+      "style": {"width": 280  ,"backgroundColor": "lightgreen"},
+      "cards": []
+    },
+    {
+      "id": "archived",
+      "title": "ARCHIVED",
+      "editable":false,
+      "style": {"width": 280,"backgroundColor": "grey"},
+      "cards": []
+    }
+  ]
+}
